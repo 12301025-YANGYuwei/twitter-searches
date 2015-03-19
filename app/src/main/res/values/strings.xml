@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Twitter Searches</string>
+	<string name="app_name">Easy Twitter</string>
 	<string name="searchURL">http://m.flckr.com/#/search/</string>
-	<string name="tagPrompt">Tag your query</string>
-	<string name="queryPrompt">Enter Twitter search query here</string>
-	<string name="taggedSearches">Tagged Searches</string>
-	<string name="saveDescription">Touch this button to save your tagged search</string>
-	<string name="shareEditDeleteTitle">Share, Edit or Delete the search tagged as \"%s\"</string>
+	<string name="tagPrompt">your query</string>
+	<string name="queryPrompt">Enter your Twitter search query</string>
+	<string name="taggedSearches">Tagged Searches*.*</string>
+	<string name="saveDescription">Save your tagged search</string>
+	<string name="shareEditDeleteTitle">Share, Edit ,Delete button (the search tagged as \"%s\")</string>
    <string-array name="dialog_items">
-      <item>Share</item>
-      <item>Edit</item>
-      <item>Delete</item>
+      <item>Share~</item>
+      <item>Edit~</item>
+      <item>Delete~</item>
    </string-array>
-   <string name="shareSubject">Twitter search that might interest you</string>
+   <string name="shareSubject">Twitter search that might interest you,join us!</string>
    <string name="shareMessage">Check out the results of this Twitter search: %s</string>
    <string name="shareSearch">Share Search to:</string>
    <string name="cancel">Cancel</string>
@@ -20,4 +20,7 @@
    <string name="confirmMessage">Are you sure you want to delete the search \"%s\"?</string>
    <string name="delete">Delete</string>
 	<string name="missingMessage">Enter both a Twitter search query and a tag</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

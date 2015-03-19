@@ -28,7 +28,7 @@ import android.widget.TextView;
 public class MainActivity extends ListActivity
 {
    // name of SharedPreferences XML file that stores the saved searches 
-   private static final String SEARCHES = "searches";
+   private static final String SEARCHES = "string";
    
    private EditText queryEditText; // EditText where user enters a query
    private EditText tagEditText; // EditText where user tags a query
